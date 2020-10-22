@@ -1,1 +1,2 @@
-# parcial2lab2_GiordanoLuciano
+Luciano José Giordano
+Ignacio La Fata
